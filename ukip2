@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,UK | BBC1
+http://1.vip-src.com:8080/live/selahattin/candan/11213.ts
+#EXTINF:-1,UK | BBC2
+http://1.vip-src.com:8080/live/selahattin/candan/11214.ts
+#EXTINF:-1,UK | BBC3
+http://1.vip-src.com:8080/live/selahattin/candan/11215.ts
+#EXTINF:-1,UK | BTSport1
+http://1.vip-src.com:8080/live/selahattin/candan/11257.ts
+#EXTINF:-1,UK | BTSport2
+http://1.vip-src.com:8080/live/selahattin/candan/11258.ts
+#EXTINF:-1,UK | BTSportESPN
+http://1.vip-src.com:8080/live/selahattin/candan/11259.ts
+#EXTINF:-1,UK | BTSportEurope
+http://1.vip-src.com:8080/live/selahattin/candan/11256.ts
+#EXTINF:-1,UK | CBSAction
+http://1.vip-src.com:8080/live/selahattin/candan/11218.ts
+#EXTINF:-1,UK | CBSDrama
+http://1.vip-src.com:8080/live/selahattin/candan/11217.ts
+#EXTINF:-1,UK | CBSReality
+http://1.vip-src.com:8080/live/selahattin/candan/11216.ts
+#EXTINF:-1,UK | Channel4
+http://1.vip-src.com:8080/live/selahattin/candan/11219.ts
+#EXTINF:-1,UK | Channel5
+http://1.vip-src.com:8080/live/selahattin/candan/11220.ts
+#EXTINF:-1,UK | ComedyCentral
+http://1.vip-src.com:8080/live/selahattin/candan/11221.ts
+#EXTINF:-1,UK | Discovery Science HD
+http://1.vip-src.com:8080/live/selahattin/candan/11226.ts
+#EXTINF:-1,UK | Discovery Turbo HD
+http://1.vip-src.com:8080/live/selahattin/candan/11227.ts
+#EXTINF:-1,UK | DiscoveryChannelHD
+http://1.vip-src.com:8080/live/selahattin/candan/11224.ts
+#EXTINF:-1,UK | DiscoveryShed
+http://1.vip-src.com:8080/live/selahattin/candan/11225.ts
+#EXTINF:-1,UK | DisneyChannel
+http://1.vip-src.com:8080/live/selahattin/candan/11223.ts
+#EXTINF:-1,UK | DisneyJunior
+http://1.vip-src.com:8080/live/selahattin/candan/11222.ts
+#EXTINF:-1,UK | Dmax.
+http://1.vip-src.com:8080/live/selahattin/candan/11245.ts
+#EXTINF:-1,UK | EUROSPORT 2
+http://1.vip-src.com:8080/live/selahattin/candan/11247.ts
+#EXTINF:-1,UK | EUROSPORT1
+http://1.vip-src.com:8080/live/selahattin/candan/11246.ts
+#EXTINF:-1,UK | ITV1
+http://1.vip-src.com:8080/live/selahattin/candan/11209.ts
+#EXTINF:-1,UK | ITV2
+http://1.vip-src.com:8080/live/selahattin/candan/11210.ts
+#EXTINF:-1,UK | ITV3
+http://1.vip-src.com:8080/live/selahattin/candan/11211.ts
+#EXTINF:-1,UK | ITV4
+http://1.vip-src.com:8080/live/selahattin/candan/11212.ts
+#EXTINF:-1,UK | Movies 4Men
+http://1.vip-src.com:8080/live/selahattin/candan/11235.ts
+#EXTINF:-1,UK | NationalGeographic
+http://1.vip-src.com:8080/live/selahattin/candan/11228.ts
+#EXTINF:-1,UK | PremierSport
+http://1.vip-src.com:8080/live/selahattin/candan/11260.ts
+#EXTINF:-1,UK | Racing
+http://1.vip-src.com:8080/live/selahattin/candan/11232.ts
+#EXTINF:-1,UK | RTE One
+http://1.vip-src.com:8080/live/selahattin/candan/11243.ts
+#EXTINF:-1,UK | Rte Two
+http://1.vip-src.com:8080/live/selahattin/candan/11242.ts
+#EXTINF:-1,UK | Yesterday
+http://1.vip-src.com:8080/live/selahattin/candan/11244.ts
