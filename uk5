@@ -1,107 +1,305 @@
-#EXTM3U
+#EXTINF:-1,ARENA SPORT 1
+http://190.2.142.13:25461/live/primera_android/1122334455/311.ts
 
+#EXTINF:-1,ARENA SPORT 1 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/319.ts
 
-#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(UK) United Kingdom",5SPIKE | SD
-http://188.93.238.184:8000/live/snet/snet/9237.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AL JAZEERA ARB | SD
-http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/12857.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ALIBI | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17362.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17361.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ASIA TV UPDATED | SD
-http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17322.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17323.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17324.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 4 | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17357.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 5 | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17356.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL S | SD
-http://cdn02.iqbroadcast.tv/1345/iqb/ad4e11a583b062d0039b0f1f96769c4b.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CLUB TV | SD
-http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",COMEDY CENTRAL | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17355.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CRIME & INVERSTIGATION | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17354.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DAVE | HD
-http://188.93.238.184:8000/live/ryan/ryan/31974.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DAVE | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17353.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17352.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY HISTORY | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17351.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SCIENCE | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17350.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO | HD
-http://188.93.238.184:8000/live/ryan/ryan/9883.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17349.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FILM 4 | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17345.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FOOD NETWORK | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17344.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HISTORY | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17316.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ID FASHION | SD
-http://95.67.8.22/hls/idfashion/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",INVESTIGATION DISCOVERY | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17341.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 1 | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17367.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 2 | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17366.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 3 | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17365.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 4 | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17340.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV BE | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17364.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO WILD | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17336.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NAT GEOGRAPHIC | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17335.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV | SD
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/681.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV (1+) | SD
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/681.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV UAE | SD
-http://199.167.151.237:1935/live/sp15_3.stream/gmswf.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",QUEST | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17334.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RTE ONE | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17333.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RTE TWO | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17332.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ARTS | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17331.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17330.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVING | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17329.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ONE | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17372.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY THRILLER | HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17312.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TLC | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17328.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TRAVEL CHANNEL | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17327.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",UNIVERSAL | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17326.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",UTV | SD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17325.m3u8
+#EXTINF:-1,ARENA SPORT 2
+http://190.2.142.13:25461/live/primera_android/1122334455/310.ts
+
+#EXTINF:-1,ARENA SPORT 2 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/318.ts
+
+#EXTINF:-1,ARENA SPORT 3
+http://190.2.142.13:25461/live/primera_android/1122334455/309.ts
+
+#EXTINF:-1,ARENA SPORT 3 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/317.ts
+
+#EXTINF:-1,ARENA SPORT 4
+http://190.2.142.13:25461/live/primera_android/1122334455/308.ts
+
+#EXTINF:-1,ARENA SPORT 4 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/316.ts
+
+#EXTINF:-1,ARENA SPORT 5 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/315.ts
+
+#EXTINF:-1,EUROSPORT 1
+http://190.2.142.13:25461/live/primera_android/1122334455/307.ts
+
+#EXTINF:-1,EUROSPORT 2
+http://190.2.142.13:25461/live/primera_android/1122334455/306.ts
+
+#EXTINF:-1,DE: Eurosport 2 HD Xtra
+http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/5245.ts
+
+#EXTINF:-1,DE: Sky 1 HD
+http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/1028.ts
+
+#EXTINF:-1,DE: Sky Atlantic HD
+http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/1002.ts
+
+#EXTINF:-1,DE: DAZN 1 Bar HD
+http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/15586.ts
+
+#EXTINF:-1,DE: DAZN 2 Bar HD
+http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/15587.ts
+
+#EXTINF:-1,BEIN-SPORT-1=LOW
+http://egyman.net:1978/live/22222/22222/4937.ts
+
+#EXTINF:-1,BEIN-SPORT-3=LOW
+http://egyman.net:1978/live/22222/22222/4935.ts
+
+#EXTINF:-1,BEIN-SPORT-4=LOW
+http://egyman.net:1978/live/22222/22222/4934.ts
+
+#EXTINF:-1,BEIN-SPORT-5=LOW
+http://egyman.net:1978/live/22222/22222/4933.ts
+
+#EXTINF:-1,BEIN-SPORT-6=LOW
+http://egyman.net:1978/live/22222/22222/4932.ts
+
+#EXTINF:-1,BEIN-SPORT-7=LOW
+http://egyman.net:1978/live/22222/22222/4931.ts
+
+#EXTINF:-1,BEIN-SPORT-8=LOW
+http://egyman.net:1978/live/22222/22222/4930.ts
+
+#EXTINF:-1,BEIN-SPORT-3=512
+http://egyman.net:1978/live/22222/22222/4.ts
+
+#EXTINF:-1,BEIN-SPORT-4=512
+http://egyman.net:1978/live/22222/22222/6.ts
+
+#EXTINF:-1,BEIN-SPORT-5=512
+http://egyman.net:1978/live/22222/22222/7.ts
+
+#EXTINF:-1,BEIN-SPORT-6=512
+http://egyman.net:1978/live/22222/22222/8.ts
+
+#EXTINF:-1,BEIN-SPORT-7=512
+http://egyman.net:1978/live/22222/22222/9.ts
+
+#EXTINF:-1,BEIN-SPORT-8=512
+http://egyman.net:1978/live/22222/22222/10.ts
+
+#EXTINF:-1,BEIN-SPORT-9=512
+http://egyman.net:1978/live/22222/22222/11.ts
+
+#EXTINF:-1,BEIN-SPORT-10=512
+http://egyman.net:1978/live/22222/22222/12.ts
+
+#EXTINF:-1,BEIN-SPORT-1=SD
+http://egyman.net:1978/live/22222/22222/22.ts
+
+#EXTINF:-1,BEIN-SPORT-3=SD
+http://egyman.net:1978/live/22222/22222/20.ts
+
+#EXTINF:-1,BEIN-SPORT-4=SD
+http://egyman.net:1978/live/22222/22222/19.ts
+
+#EXTINF:-1,BEIN-SPORT-5=SD
+http://egyman.net:1978/live/22222/22222/18.ts
+
+#EXTINF:-1,BEIN-SPORT-6=SD
+http://egyman.net:1978/live/22222/22222/17.ts
+
+#EXTINF:-1,BEIN-SPORT-7=SD
+http://egyman.net:1978/live/22222/22222/16.ts
+
+#EXTINF:-1,BEIN-SPORT-8=SD
+http://egyman.net:1978/live/22222/22222/15.ts
+
+#EXTINF:-1,BEIN-SPORT-9=SD
+http://egyman.net:1978/live/22222/22222/14.ts
+
+#EXTINF:-1,BEIN-SPORT-10=SD
+http://egyman.net:1978/live/22222/22222/13.ts
+
+#EXTINF:-1,BEIN-SPORT-1=HD
+http://egyman.net:1978/live/22222/22222/4555.ts
+
+#EXTINF:-1,BEIN-SPORT-3=HD
+http://egyman.net:1978/live/22222/22222/4553.ts
+
+#EXTINF:-1,BEIN-SPORT-8=HD
+http://egyman.net:1978/live/22222/22222/4548.ts
+
+#EXTINF:-1,BEIN-SPORT-4=FULL-HD
+http://egyman.net:1978/live/22222/22222/4882.ts
+
+#EXTINF:-1,BEIN-SPORT-9=FULL-HD
+http://egyman.net:1978/live/22222/22222/4877.ts
+
+#EXTINF:-1,BEIN-SPORT-1=4K
+http://egyman.net:1978/live/22222/22222/4609.ts
+
+#EXTINF:-1,BEIN-SPORT-2=4K
+http://egyman.net:1978/live/22222/22222/4610.ts
+
+#EXTINF:-1,BEIN-SPORT-3=4K
+http://egyman.net:1978/live/22222/22222/4611.ts
+
+#EXTINF:-1,BEIN-SPORT-4=4K
+http://egyman.net:1978/live/22222/22222/4612.ts
+
+#EXTINF:-1,AD SPORT HD3
+http://egyman.net:1978/live/22222/22222/6861.ts
+
+#EXTINF:-1,AR:-OSN-WWE
+http://egyman.net:1978/live/22222/22222/4556.ts
+
+#EXTINF:-1,IT:Sky.Sport F1
+http://egyman.net:1978/live/22222/22222/6521.ts
+
+#EXTINF:-1,TR:BEIN_SPORTS_LIG_TV1
+http://egyman.net:1978/live/22222/22222/6319.ts
+
+#EXTINF:-1,UK:BT_Sports_ESPN
+http://egyman.net:1978/live/22222/22222/6500.ts
+
+#EXTINF:-1,UK:Sky Sport MIX
+http://egyman.net:1978/live/22222/22222/6481.ts
+
+#EXTINF:-1,UK:Sky Sports
+http://egyman.net:1978/live/22222/22222/6479.ts
+
+#EXTINF:-1,AR:beIN SPORT 1 HD
+http://188.93.238.184:8000/live/snet/snet/37774.ts
+
+#EXTINF:-1,AR:beIN SPORT 10 HD
+http://188.93.238.184:8000/live/snet/snet/37783.ts
+
+#EXTINF:-1,AR:beIN SPORT 11 HD
+http://188.93.238.184:8000/live/snet/snet/37784.ts
+
+#EXTINF:-1,AR:beIN SPORT 12 HD
+http://188.93.238.184:8000/live/snet/snet/37785.ts
+
+#EXTINF:-1,Rom: Sport Klub 1 HD
+http://188.93.238.184:8000/live/snet/snet/37786.ts
+
+#EXTINF:-1,Rom: Sport Klub 2 HD
+http://188.93.238.184:8000/live/snet/snet/37787.ts
+
+#EXTINF:-1,Rom:  Sport Klub 3 HD
+http://188.93.238.184:8000/live/snet/snet/37788.ts
+
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://188.93.238.184:8000/live/snet/snet/375.ts
+
+#EXTINF:-1,AR: Bein Sports 9 HD
+http://188.93.238.184:8000/live/snet/snet/376.ts
+
+#EXTINF:-1,AR: MBC Action (.)
+http://188.93.238.184:8000/live/snet/snet/648.ts
+
+#EXTINF:-1,AR: MBC Drama (.)
+http://188.93.238.184:8000/live/snet/snet/649.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/36513.ts
+
+#EXTINF:-1,UK@ Sky Sports Prem Lge HD
+http://188.93.238.184:8000/live/snet/snet/36514.ts
+
+#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/13633.ts
+
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://188.93.238.184:8000/live/snet/snet/12451.ts
+
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37400.ts
+
+#EXTINF:-1,UK@ Sky Sports Cricket HD
+http://188.93.238.184:8000/live/snet/snet/37955.ts
+
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://188.93.238.184:8000/live/snet/snet/9721.ts
+
+#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
+http://188.93.238.184:8000/live/snet/snet/9722.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://188.93.238.184:8000/live/snet/snet/11911.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37294.ts
+
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://188.93.238.184:8000/live/snet/snet/9725.ts
+
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37299.ts
+
+#EXTINF:-1,UK@Sky Sports Golf HD
+http://188.93.238.184:8000/live/snet/snet/37569.ts
+
+#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32594.ts
+
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://188.93.238.184:8000/live/snet/snet/36509.ts
+
+#EXTINF:-1,UK@ Sky Sports Action (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/36510.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://188.93.238.184:8000/live/snet/snet/9723.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/29507.ts
+
+#EXTINF:-1,UK@ Eurosport 1 HD
+http://188.93.238.184:8000/live/snet/snet/29815.ts
+
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://188.93.238.184:8000/live/snet/snet/10763.ts
+
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://188.93.238.184:8000/live/snet/snet/36515.ts
+
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32859.ts
+
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://188.93.238.184:8000/live/snet/snet/37956.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37153.ts
+
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://188.93.238.184:8000/live/snet/snet/32931.ts
+
+#EXTINF:-1,UK@ BT Sport 3 (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32223.ts
+
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://188.93.238.184:8000/live/snet/snet/10759.ts
+
+#EXTINF:-1,UK@ BT Sport Espn (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/10760.ts
+
+#EXTINF:-1,MY@ .Astro Sports
+http://188.93.238.184:8000/live/snet/snet/36505.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://188.93.238.184:8000/live/snet/snet/36504.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://188.93.238.184:8000/live/snet/snet/36503.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://188.93.238.184:8000/live/snet/snet/36502.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://188.93.238.184:8000/live/snet/snet/36501.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://188.93.238.184:8000/live/snet/snet/36500.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://188.93.238.184:8000/live/snet/snet/36499.ts
