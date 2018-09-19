@@ -1,0 +1,107 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",5SPIKE | SD
+http://188.93.238.184:8000/live/snet/snet/9237.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AL JAZEERA ARB | SD
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/12857.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ALIBI | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17362.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17361.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ASIA TV UPDATED | SD
+http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17322.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17323.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17324.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 4 | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17357.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 5 | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17356.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL S | SD
+http://cdn02.iqbroadcast.tv/1345/iqb/ad4e11a583b062d0039b0f1f96769c4b.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CLUB TV | SD
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COMEDY CENTRAL | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17355.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CRIME & INVERSTIGATION | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17354.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DAVE | HD
+http://188.93.238.184:8000/live/ryan/ryan/31974.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DAVE | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17353.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17352.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY HISTORY | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17351.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SCIENCE | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17350.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO | HD
+http://188.93.238.184:8000/live/ryan/ryan/9883.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17349.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FILM 4 | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17345.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FOOD NETWORK | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17344.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HISTORY | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17316.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ID FASHION | SD
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",INVESTIGATION DISCOVERY | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17341.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 1 | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17367.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 2 | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17366.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 3 | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17365.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 4 | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17340.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV BE | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17364.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO WILD | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17336.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NAT GEOGRAPHIC | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17335.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV | SD
+http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/681.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV (1+) | SD
+http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/681.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV UAE | SD
+http://199.167.151.237:1935/live/sp15_3.stream/gmswf.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",QUEST | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17334.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE ONE | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17333.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE TWO | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17332.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ARTS | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17331.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17330.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVING | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17329.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ONE | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17372.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY THRILLER | HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17312.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TLC | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17328.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TRAVEL CHANNEL | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17327.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UNIVERSAL | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17326.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UTV | SD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17325.m3u8
